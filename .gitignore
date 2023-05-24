@@ -1,2 +1,5 @@
 # Keys
 *.pem
+
+# Secrets
+secrets.json
