@@ -3,3 +3,6 @@
 
 # Secrets
 secrets.json
+
+# Notebook checkpoints
+.ipynb_checkpoints
