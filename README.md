@@ -15,3 +15,5 @@ We want use a social network to show show relations and interactions between use
 - Yelp Reviews
 	- MongoDB: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_review.json
 	- Neo4j: Loaded over Yelp GQL API
+## Presentation Slides:
+https://docs.google.com/presentation/d/1Z1MWATBhiaqORU01oEnopA2KYcKSrykfcrXBnCX_aaU/edit?usp=sharing
